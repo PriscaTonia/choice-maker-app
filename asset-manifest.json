@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/choice-maker-app/static/css/main.57e0317a.chunk.css",
+    "main.js": "/choice-maker-app/static/js/main.7ba5ac7e.chunk.js",
+    "main.js.map": "/choice-maker-app/static/js/main.7ba5ac7e.chunk.js.map",
+    "runtime-main.js": "/choice-maker-app/static/js/runtime-main.1d9c0ba8.js",
+    "runtime-main.js.map": "/choice-maker-app/static/js/runtime-main.1d9c0ba8.js.map",
+    "static/js/2.9e3c7291.chunk.js": "/choice-maker-app/static/js/2.9e3c7291.chunk.js",
+    "static/js/2.9e3c7291.chunk.js.map": "/choice-maker-app/static/js/2.9e3c7291.chunk.js.map",
+    "index.html": "/choice-maker-app/index.html",
+    "precache-manifest.b9d7c611a5f494d19d00017b7b7ecb0c.js": "/choice-maker-app/precache-manifest.b9d7c611a5f494d19d00017b7b7ecb0c.js",
+    "service-worker.js": "/choice-maker-app/service-worker.js",
+    "static/css/main.57e0317a.chunk.css.map": "/choice-maker-app/static/css/main.57e0317a.chunk.css.map",
+    "static/js/2.9e3c7291.chunk.js.LICENSE.txt": "/choice-maker-app/static/js/2.9e3c7291.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d9c0ba8.js",
+    "static/js/2.9e3c7291.chunk.js",
+    "static/css/main.57e0317a.chunk.css",
+    "static/js/main.7ba5ac7e.chunk.js"
+  ]
+}
